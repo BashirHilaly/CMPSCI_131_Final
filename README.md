@@ -20,8 +20,8 @@ This project was originally created as a submission for my first Computer Scienc
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/fitness-achievements-tracker.git
-   cd fitness-achievements-tracker
+   git clone https://github.com/bashirhilaly/cmpsci_131_final.git
+   cd cmpsci_131_final
 
 2. **Run The Program**
   ```bash

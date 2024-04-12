@@ -1,3 +1,9 @@
+<h6 align="center">بسم الله الرحمن الرحيم
+<br>In the name of Allah, Most Gracious, Most Merciful
+</h6>
+
+---
+
 # Fitness Achievements Tracker (CMPSCI_131_Final) 🏋️‍♂️💪
 
 Welcome to the Fitness Achievements Tracker! Whether you're on a journey to shed pounds, build muscle, or achieve your fitness goals, this program is designed to assist you in documenting and reaching those milestones. 
